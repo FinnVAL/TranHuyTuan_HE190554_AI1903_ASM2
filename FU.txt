@@ -1,0 +1,12 @@
+2
+C_Programming_Language
+Dennis_Ritchie
+Prentice_Hall
+1988
+59000
+
+Programming_in_ANSI_C
+Balagurusamy
+empty
+2012
+600000
